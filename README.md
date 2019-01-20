@@ -1,4 +1,4 @@
 # algos
 
-To-Do:
+## To-Do:
 * study mergesort and quicksort
